@@ -40,7 +40,7 @@
 
 ---
 ### GitHub cтатистика:
-(https://github-readme-stats.vercel.app/api?username=Eumorg&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/Eumorg)
+[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eumorg&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/Eumorg)
 
 [linkedin]: https://www.linkedin.com/in/eumorg/
 [telegram]: https://t.me/eumorg
